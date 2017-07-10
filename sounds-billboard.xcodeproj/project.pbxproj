@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		9C2E08FE1F139C7D00233097 /* sounds-billboard */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "sounds-billboard"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C2E09011F139C7D00233097 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		9C2E09081F139D4C00233097 /* sound.interview.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = sound.interview.playground; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		9C2E08F51F139C7D00233097 = {
 			isa = PBXGroup;
 			children = (
+				9C2E09081F139D4C00233097 /* sound.interview.playground */,
 				9C2E09001F139C7D00233097 /* sounds-billboard */,
 				9C2E08FF1F139C7D00233097 /* Products */,
 			);
